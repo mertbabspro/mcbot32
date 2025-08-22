@@ -13,7 +13,7 @@ function createBot() {
 
     // 1️⃣ /login
     setTimeout(() => {
-      bot.chat("/register yarrakyarrak1")
+      bot.chat("/login yarrakyarrak1")
       console.log("/login komutu gönderildi ✅")
     }, 5000)
 
