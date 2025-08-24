@@ -22,7 +22,7 @@ function createBot() {
 
         // 2️⃣ Her dakika /shard pay obbyzz 1
         setInterval(() => {
-          bot.chat("/shard pay fiategea 5118")
+          bot.chat("/shard pay obbyzz 1")
           console.log("/shard pay obbyzz 1 komutu gönderildi ✅")
         }, 60000) // 1 dakika
       }, 5000)
